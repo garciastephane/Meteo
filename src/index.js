@@ -4,7 +4,7 @@ import './index.css';
 
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import "bootswatch/dist/solar/bootstrap.min.css"; 
+import "bootswatch/dist/superhero/bootstrap.min.css"; 
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
